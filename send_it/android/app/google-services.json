@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192566273516",
+    "project_id": "send-it-ac68d",
+    "storage_bucket": "send-it-ac68d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192566273516:android:9b9ecfa99a2caf9e7c4cc9",
+        "android_client_info": {
+          "package_name": "com.sujalratnatamrakar.send_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192566273516-bmruq8ln0e4mvicmm6e3ajdtavro2tli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA47lk-85TUSaSOUQiSIX0wuei00y43lNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192566273516-bmruq8ln0e4mvicmm6e3ajdtavro2tli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
